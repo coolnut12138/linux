@@ -1,4 +1,4 @@
-/*POSIX信号量实现一个线程安全的队列*/
+/*POSIX信号量实现一个线程安全的队列 */
 #include <iostream>
 #include <vector>
 #include <errno.h>
